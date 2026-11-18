@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Nicolas Da Silveira Souza
 
 def media(n1, n2):
     """Devolve a media aritmetica das duas notas.
