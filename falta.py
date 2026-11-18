@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Makaullei Gabriel Rodrigues LimaS
 
 def falta(m):
     """Devolve quantos pontos faltam para chegar a 60.
